@@ -8,7 +8,7 @@ Repositório criado para a disciplina de Engenharia de Software, com o objetivo 
 - `/projetos_pessoais`: Códigos desenvolvidos de forma autônoma e estudos extracurriculares.
 - `index.html` e `style.css`: Arquivos fonte da página estática do portfólio.
 
-## 🚀 Tecnologias Utilizadas no Portfólio
+## Tecnologias Utilizadas no Portfólio
 - HTML5
 - CSS3
 
