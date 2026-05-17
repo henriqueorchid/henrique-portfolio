@@ -2,7 +2,7 @@
 
 Repositório criado para a disciplina de Engenharia de Software, com o objetivo de armazenar projetos acadêmicos e pessoais, servindo como base para meu perfil profissional.
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 - `/projetos_academicos`: Códigos, relatórios e trabalhos desenvolvidos na graduação.
 - `/projetos_pessoais`: Códigos desenvolvidos de forma autônoma e estudos extracurriculares.
@@ -12,10 +12,10 @@ Repositório criado para a disciplina de Engenharia de Software, com o objetivo 
 - HTML5
 - CSS3
 
-## 🌐 Acesso ao Portfólio
+## Acesso ao Portfólio
 O portfólio pode ser visualizado online através do GitHub Pages:
-**[Inserir o Link do seu GitHub Pages aqui]**
+**https://henriqueorchid.github.io/henrique-portfolio/**
 
-## 📬 Contato
+## Contato
 - [LinkedIn](https://www.linkedin.com/in/henrique-gabriel-da-silva-9a39173bb/)
 - email: henriquesilva7x@gmail.com
