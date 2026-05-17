@@ -10,7 +10,7 @@ Repositório criado para a disciplina de Engenharia de Software, com o objetivo 
 
 ## 🚀 Tecnologias Utilizadas no Portfólio
 - HTML5
-- CSS3 (Tema Minimalista Dark/Red)
+- CSS3
 
 ## 🌐 Acesso ao Portfólio
 O portfólio pode ser visualizado online através do GitHub Pages:
