@@ -18,3 +18,4 @@ O portfólio pode ser visualizado online através do GitHub Pages:
 
 ## 📬 Contato
 - [LinkedIn](https://www.linkedin.com/in/henrique-gabriel-da-silva-9a39173bb/)
+- email: henriquesilva7x@gmail.com
